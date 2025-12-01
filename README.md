@@ -4,7 +4,6 @@
 
 📫 Email: kirill.cray@yandex.ru  
 📱 Telegram: [@cray1111](https://t.me/cray1111)  
-💻 GitHub: [github.com/kirillcray](https://github.com/kirillcray)
 
 ---
 
