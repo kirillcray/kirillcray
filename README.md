@@ -3,7 +3,7 @@
 **Python Backend Developer / Student @ СПбГЭТУ "ЛЭТИ"**
 
 📫 Email: kirill.cray@yandex.ru  
-📱 Telegram: [@cray1111](https://t.me/cray1111)  
+📱 Telegram: [@kirillplv](https://t.me/kirillplv)  
 
 ---
 
